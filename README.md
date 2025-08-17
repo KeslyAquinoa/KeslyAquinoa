@@ -14,7 +14,7 @@
   </div>
   
   <!-- GIF -->
-  <div">
+  <div>
     <img src="https://github.com/user-attachments/assets/2bf34af3-0fc1-447d-bf5c-ca13f25f616a" alt="GIF animado" style="width: 100%; border-radius: 10px;">
   </div>
 </div>
