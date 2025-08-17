@@ -5,17 +5,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ff1493&size=25&duration=2000&center=true&vCenter=true&width=700&height=100&lines=Complicar+o+simples+é+comum...;Tornar+o+complicado+incrivelmente+simples,;isso+é+criatividade.;——+Charles+Mingus" />  </a>
 </p>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
   <!-- Texto -->
-  <div style="flex: 1;">
-    <h2>😉 Sobre mim 😉</h2>
+  <div>
+    <h2 align= "center">😉 Sobre mim 😉</h2>
     <p>Oiii! Me chamo Kesly Aquinoã 👋, estudante da UFRA, atualmente no terceiro período de Sistemas de Informação 💻.</p>
     <p>Sempre fui curiosa e criativa ✨, e foi isso que me levou à tecnologia: um espaço onde posso unir criatividade e inovação, criar coisas do zero e ver ideias se transformarem em projetos reais 🚀.</p>
     <p>Aqui no meu GitHub compartilho meus projetos pessoais 📂, cursos 📚 e tudo que estou aprendendo 🌱, sempre explorando novas possibilidades e me desafiando a crescer cada vez mais 💡.</p>
   </div>
   
   <!-- GIF -->
-  <div style="flex: 1;">
+  <div">
     <img src="https://github.com/user-attachments/assets/2bf34af3-0fc1-447d-bf5c-ca13f25f616a" alt="GIF animado" style="width: 100%; border-radius: 10px;">
   </div>
 </div>
