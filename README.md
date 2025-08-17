@@ -1,10 +1,21 @@
-<h1 align="center"><b>Bem vindo(a), sou a Kesly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Bem vindo(a) ao meu perfil!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&size=25&center=true&vCenter=true&width=700&height=100&lines=Apaixonada+por+transformar+ideias+em+código+💻&background=000000" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ff1493&size=25&center=true&vCenter=true&width=700&height=100&lines=Apaixonada+por+transformar+ideias+em+código+💻" />
   </a>
 </p>
+
+<div >
+  <h2>😉Sobre mim😉</h2>
+
+<p>Oiii! Me chamo Kesly Aquinoã 👋, estudante da UFRA, atualmente no terceiro período de Sistemas de Informação 💻.</p>
+<p>Sempre fui curiosa e criativa ✨, e foi isso que me levou à tecnologia: um espaço onde posso unir criatividade e inovação, criar coisas do zero e ver ideias se transformarem em projetos reais 🚀.</p>
+<p>Aqui no meu GitHub compartilho meus projetos pessoais 📂, cursos 📚 e tudo que estou aprendendo 🌱, sempre explorando novas possibilidades e me desafiando a crescer cada vez mais 💡.</p>
+
+</div>
+
+<br>
 
 <div align= "center">
 <h2 >
@@ -17,6 +28,8 @@
 <img height="165em"  src= "https://github-readme-stats.vercel.app/api/top-langs/?username=KeslyAquinoa&layout=compact&bg_color=00000000&title_color=ff1493&text_color=999999" />
 
 </div>
+
+<br>
 
 <div>
 <h2 align = "center">
@@ -50,9 +63,20 @@
   <h2 align= "center">
      ✨Repositórios em destaque✨
   </h2>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=dio-lab-open-source
+)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
+<div align = "Center">
+  <h3>
+    📞Contatos📞
+  </h3>
+
+  <a href="https://www.linkedin.com/in/kesly-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="keslyaquinoa"/></a>
+ <a href = "kesly:keslyferreira25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@keslyaquinoa"  /></a>
+</div>
 
 
 
