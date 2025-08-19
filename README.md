@@ -72,6 +72,9 @@
   <h2 align= "center">
      ✨Repositórios em destaque✨
   </h2>
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=pokedex
+)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=dio-lab-open-source
 )](https://github.com/anuraghazra/github-readme-stats)
