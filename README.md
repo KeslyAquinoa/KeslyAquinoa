@@ -68,18 +68,45 @@
 
 <br>
 
-<div>
-  <h2 align= "center">
-     ✨Repositórios em destaque✨
-  </h2>
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=pokedex
-)](https://github.com/KeslyAquinoa/pokedex)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=dio-lab-open-source
-)](https://github.com/anuraghazra/github-readme-stats)
- 
+<div align="center">
+  <h2>✨ Repositórios em destaque ✨</h2>
 </div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/KeslyAquinoa/pokedex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=pokedex" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KeslyAquinoa/todolist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=todolist" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KeslyAquinoa/landing-page-e-book">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=landing-page-e-book" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/KeslyAquinoa/landing-page-IA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=landing-page-IA" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/KeslyAquinoa/template-golf">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=template-golf" />
+      </a>
+    </td>
+    <td>
+      <!-- Espaço vazio (caso queira adicionar mais no futuro) -->
+    </td>
+  </tr>
+</table>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeslyAquinoa/KeslyAquinoa/output/github-contribution-grid-snake-dark.svg">
