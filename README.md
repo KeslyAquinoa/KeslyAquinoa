@@ -102,7 +102,8 @@
       </a>
     </td>
     <td>
-      <!-- Espaço vazio (caso queira adicionar mais no futuro) -->
+      <a href="https://github.com/KeslyAquinoa/Jogo-do-Numero-Misterioso">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=Jogo-do-Numero-Secreto" />
     </td>
   </tr>
 </table>
