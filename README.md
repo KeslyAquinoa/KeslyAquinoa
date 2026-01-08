@@ -8,9 +8,9 @@
   <!-- Texto -->
   <div>
     <h2 align= "center">😉 Sobre mim 😉</h2>
-    <p>Oiii! Me chamo Kesly Aquinoã 👋, estudante da UFRA, atualmente no terceiro período de Sistemas de Informação 💻.</p>
+    <p>Oiii! Me chamo Kesly Aquinoã 👋, estudante da UFRA, atualmente no quarto período de Sistemas de Informação 💻.</p>
     <p>Sempre fui curiosa e criativa ✨, e foi isso que me levou à tecnologia: um espaço onde posso unir criatividade e inovação, criar coisas do zero e ver ideias se transformarem em projetos reais 🚀.</p>
-    <p>Aqui no meu GitHub compartilho meus projetos pessoais 📂, cursos 📚 e tudo que estou aprendendo 🌱, sempre explorando novas possibilidades e me desafiando a crescer cada vez mais 💡.</p>
+    <p>Aqui no GitHub compartilho meus projetos pessoais 📂, cursos 📚 e tudo que estou aprendendo 🌱, sempre explorando novas possibilidades e me desafiando a crescer cada vez mais 💡.</p>
   </div>
   
   <!-- GIF -->
@@ -85,8 +85,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/KeslyAquinoa/landing-page-e-book">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=landing-page-e-book" />
+      <a href="https://github.com/KeslyAquinoa/Monitor-de-Engajamento-em-E-Learning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeslyAquinoa&repo=Monitor-de-Engajamento-em-E-Learning" />
       </a>
     </td>
   </tr>
