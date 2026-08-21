@@ -33,47 +33,6 @@
 
 <hr />
 
-<h2 align="center">✨ Repositórios em destaque ✨</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/pokedex">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=pokedex&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/todolist">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=todolist&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/Monitor-de-Engajamento-em-E-Learning">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=Monitor-de-Engajamento-em-E-Learning&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/landing-page-IA">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=landing-page-IA&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/template-golf">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=template-golf&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KeslyAquinoa/Jogo-do-Numero-Secreto">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KeslyAquinoa&repo=Jogo-do-Numero-Secreto&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<hr />
-
 <h2 align="center">🛠️ Skills 🛠️</h2>
 
 <h3 align="center">
@@ -108,27 +67,34 @@
 <h2 align="center">✨ Repositórios em destaque ✨</h2>
 
 <p align="center">
+     <a href="https://github.com/KeslyAquinoa/Monitor-de-Engajamento-em-E-Learning">
+    <img src="https://img.shields.io/badge/Monitor_E--Learning-ff1493?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/KeslyAquinoa/UrbisLogos">
+    <img src="https://img.shields.io/badge/UrbisLogos-ff1493?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
    <a href="https://github.com/KeslyAquinoa/Jogo-do-Numero-Secreto">
     <img src="https://img.shields.io/badge/Jogo_Número_Secreto-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/KeslyAquinoa/pokedex">
     <img src="https://img.shields.io/badge/Pokédex-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://github.com/KeslyAquinoa/Monitor-de-Engajamento-em-E-Learning">
-    <img src="https://img.shields.io/badge/Monitor_E--Learning-ff1493?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://github.com/KeslyAquinoa/todolist">
     <img src="https://img.shields.io/badge/TodoList-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br />
-  <a href="https://github.com/KeslyAquinoa/UrbisLogos">
-    <img src="https://img.shields.io/badge/UrbisLogos-ff1493?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://github.com/KeslyAquinoa/template-golf">
     <img src="https://img.shields.io/badge/Template_Golf-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-    
+
+    <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeslyAquinoa/KeslyAquinoa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeslyAquinoa/KeslyAquinoa/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KeslyAquinoa/KeslyAquinoa/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <hr />
 
